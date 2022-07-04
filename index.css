@@ -1,0 +1,38 @@
+body{
+    background-image: url('lali.jpg');
+}
+h1{
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 7% 36% 3%;
+    color: #ff9de6;
+}
+#txt{
+    margin: 0% 27%;
+    width: 600px;
+    height: 50px;
+    border: black;
+    border-width: 6px;
+    border-radius: 4px;
+}
+p{
+    color: #fec763;
+    font-size: 20px;
+    margin-left: 35%;
+    margin-top: 1%;
+}
+.btn{
+        background-color: #01ffff; /* Green */
+        border: none;
+        border-radius: 10px;
+        color: #ff1493;
+        padding: 15px 32px;
+        margin-top: 1%;
+        margin-left: 43%;
+        text-align: center;
+        font-weight: bold;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      
+}
